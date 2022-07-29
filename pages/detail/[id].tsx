@@ -174,7 +174,6 @@ const Detail = ({ postDetails }: IProps) => {
               />
             )}
           </div>
-
           <Comments
             comment={comment}
             comments={post?.comments}
